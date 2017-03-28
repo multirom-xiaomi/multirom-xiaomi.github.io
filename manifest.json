@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "date": "28-03-2017",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-xiaomi/multirom-xiaomi.github.io/kenzo-stable/multirom-20170328-v33-UNOFFICIAL-kenzo.zip",
+                    "version": "33-20170328-01",
+                    "type": "multirom",
+                    "size": "4440694"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-xiaomi/multirom-xiaomi.github.io/kenzo-stable/mr-twrp-recovery-20170328-01-STABLE8.img",
+                    "version": "mrom20170328-01",
+                    "type": "recovery",
+                    "size": "20377600"
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/multirom-xiaomi/multirom-xiaomi.github.io/kenzo-stable/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": "1706497"
+                }
+            ],
+            "changelogs": [],
+            "name": "kenzo"
+        }
+    ]
+}
